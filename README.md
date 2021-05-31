@@ -1,2 +1,3 @@
-# doctrine
+# Doctrine
+
 Public documentation
